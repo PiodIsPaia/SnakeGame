@@ -18,7 +18,7 @@ Para executar o jogo, siga os passos abaixo:
 1. **Clone o repositório ou baixe o código-fonte:**
 
 ```bash
-git clone https://github.com/iFariasZ/SnakeGame
+git clone https://github.com/PiodIsPaia/SnakeGame
 ```
 
 2. **Acesse o diretório do projeto:**
