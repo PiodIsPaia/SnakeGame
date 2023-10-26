@@ -50,7 +50,7 @@ go run index.go
 
 ## Autor
 
-Este jogo foi desenvolvido por [Piod](https://github.com/iFariasZ).
+Este jogo foi desenvolvido por [Piod](https://github.com/PiodIsPaia).
 
 ---
 
